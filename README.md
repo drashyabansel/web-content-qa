@@ -3,3 +3,6 @@ A web-based tool where a user can enter one or more URLs, then ask questions bas
 Input URLs to ingest their text/content. 
 Ask questions about that content. 
 View concise, accurate answers using only the ingested information. 
+
+
+# URL to Streamlit : https://web-content-app-drashya.streamlit.app/
